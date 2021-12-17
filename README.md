@@ -23,7 +23,7 @@
 1. Librosa
 2. MFCC
 
-### 결과
+### 분석 결과
 1. Epoch가 증가할 수록 Train, Test 데이터 둘 다 loss가 감소함
 2. Train 데이터의 정확도는 Epoch가 증가할수록 상승하나 Test 데이터는 300부터 변화가 거의 없음
 
